@@ -1,0 +1,30 @@
+Aufgabe 1:
+
+Durchschnittliche Latenz: 0.001085 Sekunden
+Standardabweichung: 0.000130 Sekunden
+95%-Konfidenzintervall: ±0.000036 Sekunden
+
+
+Aufgabe 2
+
+Durchschnittliche Latenz (Semaphore): 0.001075 Sekunden
+Standardabweichung: 0.000100 Sekunden
+95%-Konfidenzintervall: ±0.000028 Sekunden
+
+
+Aufgabe 3:
+
+ZeroMQ: Innerhalb eines Prozesses
+Durchschnittliche Latenz: 0.100326 Sekunden
+Standardabweichung: 0.000267 Sekunden
+95%-Konfidenzintervall: ±0.000074 Sekunden
+
+ZeroMQ: Zwischen Prozessen
+Durchschnittliche Latenz: 0.099400 Sekunden
+Standardabweichung: 0.000307 Sekunden
+95%-Konfidenzintervall: ±0.000085 Sekunden
+
+
+Aufgabe 4:
+
+
